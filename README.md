@@ -79,20 +79,25 @@ Real-time updates and event communication will be managed through our [Discord s
 
 ## 7. Evaluation Criteria
 
-Projects will be evaluated based on the following criteria:
+## 9. Evaluation Criteria
 
-| **Criteria**                               | **Points** |
-|--------------------------------------------|------------|
-| **1. Technical Complexity**                | 6          |
-| **2. Creativity and Originality**           | 6          |
-| **3. Relevance to the Theme**              | 8          |
-| **4. Playability and User Experience**     | 4          |
+Only work done during Game Jam will be considered (and should be made explicit) for the project evaluation.
 
-Total points: **24**
+| Criteria                                                                                                                  | Allocated points |
+| ------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| **1. Technical Impressiveness**                                                                                           | **6**            |
+| &nbsp;&nbsp; 1.1. How impressive is the project from a technical perspective?                                             | 3                |
+| &nbsp;&nbsp; 1.2. How reasonable the technical and programming solutions are, given the limited timeframe of a hackathon? | 3                |
+| **2. Idea**                                                                                                               | **6**            |
+| &nbsp;&nbsp; 2.1. How innovative, original and unexpected the project is?                                                 | 3                |
+| &nbsp;&nbsp; 2.2. How usable the idea is for the real-world target population to which the project is aimed? hackathon?   | 3                |
+| **3. Prototype**                                                                                                          | **8**            |
+| &nbsp;&nbsp; 3.1. Does the prototype work as advertised by the team, and as expected for a one-day project?               | 4                |
+| &nbsp;&nbsp; 3.2. Does the prototype provide a good user experience and usability?                                        | 4                |
+| **4. Presentation**                                                                                                       | **4**            |
+| **5. Integrity Check**                                                                                                    |                  |
+| **TOTAL**                                                                                                                 | **24**           |
 
-### Bonus:
-- **Use of innovative media technologies (e.g., AI, VR)** will be highly regarded by the jury.
-## 8. Guidelines
 
 General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
 ## 9. Jury
