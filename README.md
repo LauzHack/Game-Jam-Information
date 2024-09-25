@@ -126,12 +126,6 @@ The jury for this event consists of esteemed professionals from media, tech, and
         </a>
       </td>
       <td align="center" valign="top" width="16%">
-        <a href="https://www.linkedin.com/in/maël-addoum/">
-          <img src="photo/Maël.jpeg" width="100px" alt="Maël Addoum"/>
-          <br /><sub><b>Maël Addoum</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/karinepapillaud/">
           <img src="photo/Karine.jpeg" width="100px" alt="Karine Papillaud"/>
           <br /><sub><b>Karine Papillaud</b></sub>
@@ -145,7 +139,7 @@ The jury for this event consists of esteemed professionals from media, tech, and
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/maël-addoum/">
-          <img src="photo/Maël.jpeg" width="100px" alt="Maël Addoum"/>
+          <img src="photo/Mael.jpeg" width="100px" alt="Maël Addoum"/>
           <br /><sub><b>Maël Addoum</b></sub>
         </a>
       </td>
