@@ -174,15 +174,6 @@ This event is co-organized by the Initiative for Media Innovation (IMI) and InFo
 
 Special thanks to our sponsors:
 
-- **[Crésus](https://www.cresus.ch)**  
-- **[ELCA](https://www.elca.ch)**  
-- **[Logitech](https://www.logitech.com)**  
-- **[Alp-ICT](https://www.alpict.com)**
-
-Let’s build something amazing together! 👾
-
----
-
 ### Sponsors
 
 - **[Crésus](https://www.cresus.ch)**  
@@ -197,4 +188,4 @@ Let’s build something amazing together! 👾
 - **[Alp-ICT](https://www.alpict.com)**  
   Alp-ICT is a Swiss cluster initiative that fosters innovation and growth in the digital technology sector, connecting stakeholders across industries to drive forward-thinking solutions.
 
-
+Let’s build something amazing together! 👾
