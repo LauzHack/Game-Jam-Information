@@ -143,9 +143,9 @@ The jury for this event consists of esteemed professionals from media, tech, and
           <br /><sub><b>Maël Addoum</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="16%">
+      <td align="center" valign="top" width="20%">
         <a href="https://www.linkedin.com/in/hassane-assendal/">
-          <img src="photo/Hassane.jpeg" width="200px" alt="Hassane Assendal"/>
+          <img src="photo/Hassane.jpeg" width="100px" alt="Hassane Assendal"/>
           <br /><sub><b>Hassane Assendal</b></sub>
         </a>
       </td>
