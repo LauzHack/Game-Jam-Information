@@ -144,7 +144,7 @@ Total points: **24**
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/hassane-assendal/">
-          <img src="photo/Hassane.jpeg" width="200px" height="100px" alt="Hassane Assendal"/>
+          <img src="photo/Hassane.jpeg" width="100px" height="100px" alt="Hassane Assendal"/>
           <br /><sub><b>Hassane Assendal</b></sub>
         </a>
       </td>
