@@ -35,18 +35,24 @@ Teams will have 24 hours to design and prototype a game that addresses one or mo
 
 ## 3. Schedule
 
-**Friday, [Event Date]:**  
-  - **5:00 PM:** Participant Check-in  
-  - **5:10 PM:** Welcome remarks by IMI and EPFL  
-  - **5:20 PM:** Introduction of the theme by InForm  
-  - **5:35 PM:** Showcase of games from ISART Digital's GameWeek  
-  - **5:50 PM:** Presentation of the Game Jam and Challenge by GameLab UNIL-EPFL  
-  - **6:05 PM:** Team Formation  
-  - **6:15 PM:** Start of Game Jam (Max 5 people per team)  
+## Friday, September 27
 
-**Saturday, [Event Date]:**  
-  - **Throughout the day:** Game Jam continues with meals and beverages provided.  
-  - **5:00 PM:** Pitch session to the jury followed by prize announcements.
+- **17:00:** Check-in of participants in BC 420 (4th floor)  
+- **17:10:** Welcome from IMI and EPFL  
+- **17:20:** Introduction of the theme by InForm  
+- **17:35:** Showcase of games created during ISART Digital's GameWeek  
+- **17:50:** Presentation of the game jam and the challenge by GameLab UNIL-EPFL  
+- **18:05:** Creation of teams (max. 5 people per team)  
+- **18:15:** Start of the game jam, moderated by LauzHack  
+
+## Saturday, September 28
+
+- **17:00:** Closing gong for Game Jam and gathering of student groups in BC 420  
+- **17:10:** Student pitch session  
+- **18:00 - 18:30:** Jury deliberates to select the top three winners  
+- **18:30 - 18:50:** Awards ceremony  
+- **From 18:50:** Aperitif dinner  
+
 
 Free food and drinks will be provided throughout the event!  
 The event concludes with a final pitch session where 3 winners will be selected and awarded exciting prizes such as CHF 3,000 worth of gaming gear, game keys, and more!
