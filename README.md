@@ -16,8 +16,8 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 ## 1. General Information
 
 ### **Date & Time:**
-- **Date:** Friday, [Event Date]  
-- **Time:** 5:00 PM (start) to 5:00 PM the following day (end)
+- **Date:** Friday, September 27 to Saturday, September 27 
+- **Time:** 5:00 PM (start) to 8:00 PM the following day (end)
 
 ### **Location:**
 - EPFL Campus, BC Building, 4th Floor (IC Faculty)  
