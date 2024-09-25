@@ -148,12 +148,6 @@ Total points: **24**
           <br /><sub><b>Hassane Assendal</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="16%">
-        <a href="https://cresus.ch/fr/a-propos">
-          <img src="photo/cresus.png" width="200px" height="100px" alt="Olivier Michel"/>
-          <br /><sub><b>Olivier Michel</b></sub>
-        </a>
-      </td>
     </tr>
   </tbody>
 </table>
