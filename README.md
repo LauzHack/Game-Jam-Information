@@ -131,7 +131,7 @@ The jury for this event consists of esteemed professionals from media, tech, and
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/maël-addoum/">
-          <img src="photos/Maël.jpeg" width="100px" alt="Eric Bezzam"/>
+          <img src="photos/Maël.jpeg" width="100px"/>
           <br /><sub><b>Maël Addoum</b></sub>
         </a>
       </td>
