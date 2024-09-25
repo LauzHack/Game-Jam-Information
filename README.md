@@ -185,7 +185,7 @@ Special thanks to our sponsors:
 - **[Logitech](https://www.logitech.com)**  
   A globally recognized leader in personal peripherals, Logitech is known for designing products that help people connect to the digital world and unleash their creativity.
 
-- **[Alp-ICT](https://www.alpict.com)**  
+- **[Alp-ICT](https://alpict.ch/en/)**  
   Alp-ICT is a Swiss cluster initiative that fosters innovation and growth in the digital technology sector, connecting stakeholders across industries to drive forward-thinking solutions.
 
 Let’s build something amazing together! 👾
