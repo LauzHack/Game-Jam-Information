@@ -144,13 +144,13 @@ Total points: **24**
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/hassane-assendal/">
-          <img src="photo/Hassane.jpeg" width="100px" height="100px" alt="Hassane Assendal"/>
+          <img src="photo/Hassane.jpeg" width="200px" height="100px" alt="Hassane Assendal"/>
           <br /><sub><b>Hassane Assendal</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://cresus.ch/fr/a-propos">
-          <img src="photo/cresus.png" width="100px" height="100px" alt="Olivier Michel"/>
+          <img src="photo/cresus.png" width="200px" height="100px" alt="Olivier Michel"/>
           <br /><sub><b>Olivier Michel</b></sub>
         </a>
       </td>
