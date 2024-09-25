@@ -65,7 +65,7 @@ All game prototypes should be submitted via DevPost (TBA) by the end of the Game
 
 To be eligible for prizes, each team must present their game in a 5-minute pitch session to the jury on Saturday afternoon.
 
-## 6. Communication (Discord)
+## 6. Communication 
 
 Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the 
 **#gamejam-sep2024** channel to stay updated on event announcements, ask questions, and coordinate with your team.
