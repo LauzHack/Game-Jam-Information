@@ -102,75 +102,72 @@ Total points: **24**
 - **Use of innovative media technologies (e.g., AI, VR)** will be highly regarded by the jury.
 
 ## 9. Jury
-<div style="text-align: center;">
-  <div style="display: inline-block;">
-    <table>
-      <tbody>
-        <tr>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/mkrichane/">
-              <img src="photo/Mounir.jpeg" width="100px" height="100px" alt="Mounir Krichane"/>
-              <br /><sub><b>Mounir Krichane</b></sub>
-            </a>
-          </td>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/gaelhurlimann/">
-              <img src="photo/Gael.jpg" width="100px" height="100px" alt="Gaël Hurlimann"/>
-              <br /><sub><b>Gaël Hurlimann</b></sub>
-            </a>
-          </td>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/isaacpante/">
-              <img src="photo/Isaac.jpeg" width="100px" height="100px" alt="Isaac Pante"/>
-              <br /><sub><b>Isaac Pante</b></sub>
-            </a>
-          </td>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/karinepapillaud/">
-              <img src="photo/Karine.jpeg" width="100px" height="100px" alt="Karine Papillaud"/>
-              <br /><sub><b>Karine Papillaud</b></sub>
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+<div style="width: 100%; text-align: center;">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tbody>
+      <tr>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/mkrichane/">
+            <img src="photo/Mounir.jpeg" width="100px" height="100px" alt="Mounir Krichane"/>
+            <br /><sub><b>Mounir Krichane</b></sub>
+          </a>
+        </td>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/gaelhurlimann/">
+            <img src="photo/Gael.jpg" width="100px" height="100px" alt="Gaël Hurlimann"/>
+            <br /><sub><b>Gaël Hurlimann</b></sub>
+          </a>
+        </td>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/isaacpante/">
+            <img src="photo/Isaac.jpeg" width="100px" height="100px" alt="Isaac Pante"/>
+            <br /><sub><b>Isaac Pante</b></sub>
+          </a>
+        </td>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/karinepapillaud/">
+            <img src="photo/Karine.jpeg" width="100px" height="100px" alt="Karine Papillaud"/>
+            <br /><sub><b>Karine Papillaud</b></sub>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
-<div style="text-align: center; margin-top: 20px;">
-  <div style="display: inline-block;">
-    <table>
-      <tbody>
-        <tr>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/patrick-vallélian-a0769a13/">
-              <img src="photo/Patrick.jpeg" width="100px" height="100px" alt="Patrick Vallélian"/>
-              <br /><sub><b>Patrick Vallélian</b></sub>
-            </a>
-          </td>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/maël-addoum/">
-              <img src="photo/Mael.jpeg" width="100px" height="100px" alt="Maël Addoum"/>
-              <br /><sub><b>Maël Addoum</b></sub>
-            </a>
-          </td>
-          <td align="center" valign="top" width="16%">
-            <a href="https://www.linkedin.com/in/hassane-assendal/">
-              <img src="photo/Hassane.jpeg" width="100px" height="100px" alt="Hassane Assendal"/>
-              <br /><sub><b>Hassane Assendal</b></sub>
-            </a>
-          </td>
-          <td align="center" valign="top" width="16%">
-            <a href="https://cresus.ch/fr/a-propos">
-              <img src="photo/cresus.png" width="100px" height="100px" alt="Olivier Michel"/>
-              <br /><sub><b>Olivier Michel</b></sub>
-            </a>
-          </td>
-        </tr>
-      </tbody>
-    </table>
-  </div>
+<div style="width: 100%; text-align: center; margin-top: 20px;">
+  <table style="margin-left: auto; margin-right: auto;">
+    <tbody>
+      <tr>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/patrick-vallélian-a0769a13/">
+            <img src="photo/Patrick.jpeg" width="100px" height="100px" alt="Patrick Vallélian"/>
+            <br /><sub><b>Patrick Vallélian</b></sub>
+          </a>
+        </td>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/maël-addoum/">
+            <img src="photo/Mael.jpeg" width="100px" height="100px" alt="Maël Addoum"/>
+            <br /><sub><b>Maël Addoum</b></sub>
+          </a>
+        </td>
+        <td align="center" valign="top" width="16%">
+          <a href="https://www.linkedin.com/in/hassane-assendal/">
+            <img src="photo/Hassane.jpeg" width="100px" height="100px" alt="Hassane Assendal"/>
+            <br /><sub><b>Hassane Assendal</b></sub>
+          </a>
+        </td>
+        <td align="center" valign="top" width="16%">
+          <a href="https://cresus.ch/fr/a-propos">
+            <img src="photo/cresus.png" width="100px" height="100px" alt="Olivier Michel"/>
+            <br /><sub><b>Olivier Michel</b></sub>
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
+
 
 
 ## 10. Acknowledgements
