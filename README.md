@@ -172,6 +172,29 @@ This event is co-organized by the Initiative for Media Innovation (IMI) and InFo
 - ISART Digital  
 - LauzHack  
 
-Special thanks to our sponsors: Crésus, ELCA, Logitech, and Alp-ICT.
+Special thanks to our sponsors:
+
+- **[Crésus](https://www.cresus.ch)**  
+- **[ELCA](https://www.elca.ch)**  
+- **[Logitech](https://www.logitech.com)**  
+- **[Alp-ICT](https://www.alpict.com)**
 
 Let’s build something amazing together! 👾
+
+---
+
+### Sponsors
+
+- **[Crésus](https://www.cresus.ch)**  
+  Crésus offers innovative financial management solutions tailored to both individuals and businesses, supporting entrepreneurs and companies in managing their resources more efficiently.
+
+- **[ELCA](https://www.elca.ch)**  
+  ELCA is a leading Swiss IT consulting company, providing top-notch solutions in digital transformation, cybersecurity, and data management.
+
+- **[Logitech](https://www.logitech.com)**  
+  A globally recognized leader in personal peripherals, Logitech is known for designing products that help people connect to the digital world and unleash their creativity.
+
+- **[Alp-ICT](https://www.alpict.com)**  
+  Alp-ICT is a Swiss cluster initiative that fosters innovation and growth in the digital technology sector, connecting stakeholders across industries to drive forward-thinking solutions.
+
+
