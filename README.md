@@ -4,14 +4,13 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 
 [1. General Information](#1-general-information)  
 [2. Themes](#2-themes)  
-[3. Resources](#3-resources)  
-[4. Schedule](#4-schedule)  
-[5. Team Formation](#5-team-formation)  
-[6. Submission Process](#6-submission-process)  
-[7. Communication (Discord)](#7-communication-discord)  
-[8. Evaluation Criteria](#8-evaluation-criteria)  
-[9. Jury](#9-jury)  
-[10. Acknowledgements](#10-acknowledgements)
+[3. Schedule](#4-schedule)  
+[4. Team Formation](#5-team-formation)  
+[5. Submission Process](#6-submission-process)  
+[6. Communication (Discord)](#7-communication-discord)  
+[7. Evaluation Criteria](#8-evaluation-criteria)  
+[8. Jury](#9-jury)  
+[9. Acknowledgements](#10-acknowledgements)
 
 ## 1. General Information
 
@@ -33,23 +32,8 @@ This game jam, co-organized by the Initiative for Media Innovation (IMI) and InF
 
 Teams will have 24 hours to design and prototype a game that addresses one or more of these critical topics. The game jam will be guided by a video game designer, a journalist, and other experts from the IT industry.
 
-## 3. Resources
 
-We’ve compiled a list of resources that can help you get started with game development and the theme of information:
-
-- **Game Development Resources:**
-  - [Unity Documentation](https://docs.unity3d.com/Manual/index.html)  
-  - [Unreal Engine Learning Hub](https://www.unrealengine.com/en-US/onlinelearning-courses)  
-  - [Godot Engine](https://godotengine.org/documentation)
-
-- **Information & Media Resources:**
-  - [Deepfake Detection and Media Integrity Tools](https://www.mediaforensics.org)  
-  - [Fact-Checking Tools and Resources](https://www.poynter.org)  
-  - [Online Courses on Digital Literacy](https://learn.digitalmediaproject.org)  
-
-Coaching from a professional game designer, Sandro Dall’Aglio, will be available throughout the event.
-
-## 4. Schedule
+## 3. Schedule
 
 **Friday, [Event Date]:**  
   - **5:00 PM:** Participant Check-in  
@@ -67,11 +51,11 @@ Coaching from a professional game designer, Sandro Dall’Aglio, will be availab
 Free food and drinks will be provided throughout the event!  
 The event concludes with a final pitch session where 3 winners will be selected and awarded exciting prizes such as CHF 3,000 worth of gaming gear, game keys, and more!
 
-## 5. Team Formation
+## 4. Team Formation
 
 Teams can consist of up to 5 members. Please form your teams on-site after the event introduction or use our [team formation document](https://docs.google.com/spreadsheets/d/1M_2P2imvVXc_p9r-7N2kCKn2dNCar32lAjfiD9ROvnA/edit?usp=sharing).
 
-## 6. Submission Process
+## 5. Submission Process
 
 All game prototypes should be submitted via [DevPost](https://devpost.com/) by the end of the Game Jam. Submissions should include:
 
@@ -81,11 +65,11 @@ All game prototypes should be submitted via [DevPost](https://devpost.com/) by t
 
 To be eligible for prizes, each team must present their game in a 5-minute pitch session to the jury on Saturday afternoon.
 
-## 7. Communication (Discord)
+## 6. Communication (Discord)
 
 Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the #gamejam-sep2024` channel to stay updated on event announcements, ask questions, and coordinate with your team.
 
-## 8. Evaluation Criteria
+## 7. Evaluation Criteria
 
 Projects will be evaluated based on the following criteria:
 
@@ -101,7 +85,7 @@ Total points: **24**
 ### Bonus:
 - **Use of innovative media technologies (e.g., AI, VR)** will be highly regarded by the jury.
 
-## 9. Jury
+## 8. Jury
 <div style="width: 100%; text-align: center;">
   <table style="margin-left: auto; margin-right: auto;">
     <tbody>
@@ -170,7 +154,7 @@ Total points: **24**
 
 
 
-## 10. Acknowledgements
+## 9. Acknowledgements
 
 This event is co-organized by the Initiative for Media Innovation (IMI) and InForm, in collaboration with:
 
