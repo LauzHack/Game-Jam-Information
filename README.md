@@ -57,7 +57,7 @@ Teams can consist of up to 5 members. Please form your teams on-site after the e
 
 ## 5. Submission Process
 
-All game prototypes should be submitted via [DevPost](https://devpost.com/) by the end of the Game Jam. Submissions should include:
+All game prototypes should be submitted via [DevPost](https://devpost.com/) (TBA) by the end of the Game Jam. Submissions should include:
 
 1. A playable demo or video showcasing the game
 2. A brief description of the game and its relevance to the theme
