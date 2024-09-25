@@ -7,12 +7,11 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 [3. Schedule](#4-schedule)  
 [4. Team Formation](#5-team-formation)  
 [5. Submission Process](#6-submission-process)  
-[6. Communication (Discord)](#7-communication-discord)  
-[7. Evaluation Criteria](#8-evaluation-criteria)  
-[8. Guidelines](#8-guidelines) 
-[9. Jury](#9-jury)  
-[10. Acknowledgements](#10-acknowledgements)
-
+[6. Communication](#7-communication)  
+[7. Guidelines](#8-guidelines)  
+[8. Evaluation Criteria](#9-evaluation-criteria)  
+[9. Jury](#10-jury)  
+[10. Acknowledgements](#11-acknowledgements)
 ## 1. General Information
 
 ### **Date & Time:**
