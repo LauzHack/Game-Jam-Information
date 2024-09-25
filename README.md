@@ -168,8 +168,8 @@ General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf
 
 This event is co-organized by the Initiative for Media Innovation (IMI) and InForm, in collaboration with:
 - **[Game*](https://clic.epfl.ch/fr-FR/commissions/game-star)**
-- **[GameLab UNIL-EPFL](https://gamelab.sdg.unil.ch/)**  
-- **[ISART Digital](https://en.isartdigital.com/)**  
+- **[GameLab UNIL-EPFL](https://gamelab-lausanne.ch)**  
+- **[ISART Digital](https://www.isart.com)**  
 - **[LauzHack](https://www.lauzhack.com/)**  
 
 Special thanks to our sponsors:
