@@ -103,7 +103,6 @@ Total points: **24**
 
 ## 9. Jury
 <div style="text-align: center;">
-  <table style="margin: 0 auto;">
     <tbody>
       <tr>
         <td align="center" valign="top" width="16%">
