@@ -56,6 +56,7 @@ Teams will have 24 hours to design and prototype a game that addresses one or mo
 
 Free food and drinks will be provided throughout the event!  
 The event concludes with a final pitch session where 3 winners will be selected and awarded exciting prizes such as CHF 3,000 worth of gaming gear, game keys, and more!
+**In addition, video game designer Sandro Dall'Aglio will be present at various times to guide the teams.**
 
 ## 4. Team Formation
 
