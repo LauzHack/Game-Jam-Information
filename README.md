@@ -130,6 +130,12 @@ Total points: **24**
         </a>
       </td>
       <td align="center" valign="top" width="16%">
+        <a href="https://www.linkedin.com/in/hassane-assendal/">
+          <img src="photo/Hassane.jpeg" width="100px" alt="Hassane Assendal"/>
+          <br /><sub><b>Hassane Assendal</b></sub>
+        </a>
+      </td>
+      <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/patrick-vallélian-a0769a13/">
           <img src="photo/Patrick.jpeg" width="100px" alt="Patrick Vallélian"/>
           <br /><sub><b>Patrick Vallélian</b></sub>
@@ -141,13 +147,7 @@ Total points: **24**
           <br /><sub><b>Maël Addoum</b></sub>
         </a>
       </td>
-      <td align="center" valign="top" width="12%">
-        <a href="https://www.linkedin.com/in/hassane-assendal/">
-          <img src="photo/Hassane.jpeg" width="100px" alt="Hassane Assendal"/>
-          <br /><sub><b>Hassane Assendal</b></sub>
-        </a>
-      </td>
-      <td align="center" valign="top" width="12%">
+      <td align="center" valign="top" width="16%">
         <a href="https://cresus.ch/fr/a-propos">
           <img src="photo/cresus.png" width="300px" alt="Olivier Michel"/>
           <br /><sub><b>Olivier Michel</b></sub>
