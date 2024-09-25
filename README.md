@@ -105,72 +105,67 @@ Total points: **24**
 
 The jury for this event consists of esteemed professionals from media, tech, and game design industries:
 
-- **Olivier Michel**, Crésus  
-  
 <table>
   <tbody>
     <tr>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/mkrichane/">
-          <img src="photos/Mounir.jpeg" width="100px" alt="Prof. Martin Jaggi"/>
+          <img src="photos/Mounir.jpeg" width="100px" alt="Mounir Krichane"/>
           <br /><sub><b>Mounir Krichane</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/gaelhurlimann/">
-          <img src="photos/Gaël.jpeg" width="100px" alt="Dr. Javier Picorel"/>
+          <img src="photos/Gaël.jpeg" width="100px" alt="Gaël Hurlimann"/>
           <br /><sub><b>Gaël Hurlimann</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/isaacpante/">
-          <img src="photos/Isaac.jpeg" width="100px" alt="Prof. Marcel Salathe"/>
+          <img src="photos/Isaac.jpeg" width="100px" alt="Isaac Pante"/>
           <br /><sub><b>Isaac Pante</b></sub>
         </a>
       </td>
-      </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/maël-addoum/">
-          <img src="photos/Maël.jpeg" width="100px"/>
+          <img src="photos/Maël.jpeg" width="100px" alt="Maël Addoum"/>
           <br /><sub><b>Maël Addoum</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/karinepapillaud/">
-          <img src="photos/Karine.jpeg" width="100px" alt="Luca Fusar Bassini"/>
+          <img src="photos/Karine.jpeg" width="100px" alt="Karine Papillaud"/>
           <br /><sub><b>Karine Papillaud</b></sub>
         </a>
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/patrick-vallélian-a0769a13/">
-          <img src="photos/Patrick.jpeg" width="100px" alt="Seyed Parsa Neshaei"/>
+          <img src="photos/Patrick.jpeg" width="100px" alt="Patrick Vallélian"/>
           <br /><sub><b>Patrick Vallélian</b></sub>
         </a>
       </td>
-      </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/maël-addoum/">
-          <img src="photos/Maël.jpeg" width="100px" alt="Eric Bezzam"/>
+          <img src="photos/Maël.jpeg" width="100px" alt="Maël Addoum"/>
           <br /><sub><b>Maël Addoum</b></sub>
         </a>
       </td>
-      </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/hassane-assendal/">
-          <img src="photos/Hassane.jpeg" width="100px" alt="Eric Bezzam"/>
+          <img src="photos/Hassane.jpeg" width="100px" alt="Hassane Assendal"/>
           <br /><sub><b>Hassane Assendal</b></sub>
         </a>
       </td>
-      </td>
       <td align="center" valign="top" width="16%">
         <a href="https://cresus.ch/fr/a-propos">
-          <img src="photos/cresus.png" width="100px" alt="Eric Bezzam"/>
+          <img src="photos/cresus.png" width="100px" alt="Olivier Michel"/>
           <br /><sub><b>Olivier Michel</b></sub>
         </a>
       </td>
     </tr>
   </tbody>
 </table>
+
 
 ## 10. Acknowledgements
 
