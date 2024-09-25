@@ -69,7 +69,7 @@ The event concludes with a final pitch session where 3 winners will be selected 
 
 ## 5. Team Formation
 
-Teams can consist of up to 5 members. Please form your teams on-site after the event introduction or use our [team formation document](https://docs.google.com/spreadsheets/d/example-link).
+Teams can consist of up to 5 members. Please form your teams on-site after the event introduction or use our [team formation document](https://docs.google.com/spreadsheets/d/1M_2P2imvVXc_p9r-7N2kCKn2dNCar32lAjfiD9ROvnA/edit?usp=sharing).
 
 ## 6. Submission Process
 
@@ -83,7 +83,7 @@ To be eligible for prizes, each team must present their game in a 5-minute pitch
 
 ## 7. Communication (Discord)
 
-Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the `#game-jam-2024` channel to stay updated on event announcements, ask questions, and coordinate with your team.
+Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the #gamejam-sep2024` channel to stay updated on event announcements, ask questions, and coordinate with your team.
 
 ## 8. Evaluation Criteria
 
