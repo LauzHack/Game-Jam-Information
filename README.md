@@ -8,14 +8,15 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 [4. Team Formation](#4-team-formation)  
 [5. Submission Process](#5-submission-process)  
 [6. Communication](#6-communication)  
-[7. Guidelines](#7-guidelines)  
+[7. Guidelines](#7-event-rules)  
 [8. Evaluation Criteria](#8-evaluation-criteria)  
 [9. Jury](#9-jury)  
 [10. Acknowledgements](#10-acknowledgements)
+
 ## 1. General Information
 
 ### **Date & Time:**
-- **Date:** Friday, September 27 to Saturday, September 27 
+- **Date:** Fri Sep 27 to Sat Sep 28 
 - **Time:** 5:00 PM (Sep 27) to 8:00 PM (Sep 28)
 
 ### **Location:**
@@ -60,26 +61,27 @@ The event concludes with a final pitch session where 3 winners will be selected 
 
 ## 4. Team Formation
 
-Teams can consist of up to 5 members. Please form your teams on-site after the event introduction or use our [team formation document](https://docs.google.com/spreadsheets/d/1M_2P2imvVXc_p9r-7N2kCKn2dNCar32lAjfiD9ROvnA/edit?usp=sharing).
+Teams can consist of up to 5 members. Please indicate your team in the [team formation document](https://docs.google.com/spreadsheets/d/1M_2P2imvVXc_p9r-7N2kCKn2dNCar32lAjfiD9ROvnA/edit?usp=sharing). You can also use this document to search for teams that have spots, or post an idea that you may have to find teammates!
 
 ## 5. Submission Process
 
 All game prototypes should be submitted via DevPost (TBA) by the end of the Game Jam. Submissions should include:
 
-1. A playable demo or video showcasing the game
-2. A brief description of the game and its relevance to the theme
+1. A brief description of the game and its relevance to the theme
+2. A demo or video showcasing the game
 3. A GitHub repository (or equivalent) containing the codebase
 
 To be eligible for prizes, each team must present their game in a 5-minute pitch session to the jury on Saturday afternoon.
 
 ## 6. Communication 
 
-Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the 
-**#gamejam-sep2024** channel to stay updated on event announcements, ask questions, and coordinate with your team.
+Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/kBfkHqVZft) to stay updated on event announcements, ask questions, and coordinate with your team. On Luma, you should have received an invite to the **#gamejam-sep2024** channel. If you don't see it, message "Eric (Organizer)" on Discord.
 
-## 7. Evaluation Criteria
+## 7. Event Rules
 
-## 9. Evaluation Criteria
+Please refer to the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
+
+## 8. Evaluation Criteria
 
 Only work done during Game Jam will be considered (and should be made explicit) for the project evaluation.
 
@@ -98,8 +100,6 @@ Only work done during Game Jam will be considered (and should be made explicit) 
 | **5. Integrity Check**                                                                                                    |                  |
 | **TOTAL**                                                                                                                 | **24**           |
 
-
-General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
 ## 9. Jury
 <div style="width: 100%; text-align: center;">
   <table style="margin-left: auto; margin-right: auto;">
@@ -168,8 +168,7 @@ General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf
 </div>
 
 
-
-## 9. Acknowledgements
+## 10. Acknowledgements
 
 This event is co-organized by the Initiative for Media Innovation (IMI) and InForm, in collaboration with:
 - **[Game*](https://clic.epfl.ch/fr-FR/commissions/game-star)**
