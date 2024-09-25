@@ -67,7 +67,8 @@ To be eligible for prizes, each team must present their game in a 5-minute pitch
 
 ## 6. Communication (Discord)
 
-Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the #gamejam-sep2024` channel to stay updated on event announcements, ask questions, and coordinate with your team.
+Real-time updates and event communication will be managed through our [Discord server](https://discord.gg/invite-link). Join the 
+**#gamejam-sep2024** channel to stay updated on event announcements, ask questions, and coordinate with your team.
 
 ## 7. Evaluation Criteria
 
