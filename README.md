@@ -115,7 +115,7 @@ The jury for this event consists of esteemed professionals from media, tech, and
       </td>
       <td align="center" valign="top" width="16%">
         <a href="https://www.linkedin.com/in/gaelhurlimann/">
-          <img src="photo/Gaël.jpg" width="100px" alt="Gaël Hurlimann"/>
+          <img src="photo/Gael.jpg" width="100px" alt="Gaël Hurlimann"/>
           <br /><sub><b>Gaël Hurlimann</b></sub>
         </a>
       </td>
