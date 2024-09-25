@@ -9,8 +9,9 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 [5. Submission Process](#6-submission-process)  
 [6. Communication (Discord)](#7-communication-discord)  
 [7. Evaluation Criteria](#8-evaluation-criteria)  
-[8. Jury](#9-jury)  
-[9. Acknowledgements](#10-acknowledgements)
+[8. Guidelines](#8-guidelines) 
+[9. Jury](#9-jury)  
+[10. Acknowledgements](#10-acknowledgements)
 
 ## 1. General Information
 
@@ -85,8 +86,10 @@ Total points: **24**
 
 ### Bonus:
 - **Use of innovative media technologies (e.g., AI, VR)** will be highly regarded by the jury.
+## 8. Guidelines
 
-## 8. Jury
+General Guidelines are provided by the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
+## 9. Jury
 <div style="width: 100%; text-align: center;">
   <table style="margin-left: auto; margin-right: auto;">
     <tbody>
