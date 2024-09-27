@@ -20,8 +20,11 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 - **Time:** 5:00 PM (Sep 27) to 8:00 PM (Sep 28)
 
 ### **Location:**
-  - [BC Building, 4th floor](https://www.google.com/maps/place/BC+Building+(building+of+the+IC+faculty)/@46.5188791,6.5627602,18z/data=!4m6!3m5!1s0x478c30fcd9c6f5b3:0xd37877e203e479a8!8m2!3d46.518569!4d6.561918!16s%2Fg%2F1pv1l1jcp?entry=ttu) (IC Faculty Building)  
-  - Chem. Alan Turing, 1015 Ecublens, Switzerland 
+
+Everything takes place at the [BC building](https://maps.app.goo.gl/C93kWvRLzBjjFzWf9) on the EPFL campus.
+- Talks: BC420
+- Food: BC410
+- Working space: BC05-06
 
 ## 2. Themes
 
