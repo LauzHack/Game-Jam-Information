@@ -12,6 +12,7 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 [8. Evaluation Criteria](#8-evaluation-criteria)  
 [9. Jury](#9-jury)  
 [10. Acknowledgements](#10-acknowledgements)
+[11. Resources](#11-resources)
 
 ## 1. General Information
 
@@ -93,6 +94,11 @@ Please refer to the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
 Only work done during Game Jam will be considered (and should be made explicit) for the project evaluation.
 
 Your pitch should be limited to **3 minutes**. Criteria to be announced shortly!
+
+- 💡 Idea in relation to the theme of information
+- 💻 Technical impressiveness
+- 💥 Prototype/demo
+- 🗣️ Presentation
 
 ## 9. Jury
 <div style="width: 100%; text-align: center;">
@@ -187,3 +193,18 @@ Special thanks to our sponsors:
   Alp-ICT is a Swiss cluster initiative that fosters innovation and growth in the digital technology sector, connecting stakeholders across industries to drive forward-thinking solutions.
 
 Let’s build something amazing together! 👾
+
+## 11. Resources
+
+### Media articles, video & audio
+
+- **SRG SSR APIs** https://developer.srgssr.ch/api-catalog
+- **Common Crawl News Dataset** https://data.commoncrawl.org/crawl-data/CC-NEWS/index.html
+- **GDELT Project** https://www.gdeltproject.org/data.html
+- **AllSides Media Bias Ratings** https://www.allsides.com/media-bias/ratings
+
+### Source codes & resources
+
+- Are you interested in further developing a student game or re-using some resources?
+- 5 games developed by students during the ISART Digital GameWeek are available under certain conditions
+- Please talk to us if you are interested
