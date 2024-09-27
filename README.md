@@ -38,28 +38,30 @@ Teams will have 24 hours to design and prototype a game that addresses one or mo
 
 ## Friday, September 27
 
-- **17:00:** Check-in of participants in BC 420 (4th floor)  
+- **17:00:** Check-in of participants in BC 420
 - **17:10:** Welcome from IMI and EPFL  
 - **17:20:** Introduction of the theme by InForm  
 - **17:35:** Showcase of games created during ISART Digital's GameWeek  
 - **17:50:** Presentation of the game jam and the challenge by GameLab UNIL-EPFL  
 - **18:05:** Creation of teams (max. 5 people per team)  
 - **18:15:** Start of the game jam, moderated by LauzHack
-- **22:30:** Close of working space. You are free to work elsewhere/remotely.
+- **19:30 & 21:30:** 🍕 in BC 410
+- **22:30:** Closing of the working space. You are free to work elsewhere/remotely.
 
 ## Saturday, September 28
 
-- **8:30:** Breakfast (BC 410)
-- **17:00:** Closing gong for Game Jam and gathering of student groups in BC 420  
-- **17:10:** Student pitch session  
-- **18:00 - 18:30:** Jury deliberates to select the top three winners  
-- **18:30 - 18:50:** Awards ceremony  
-- **From 18:50:** Aperitif dinner  
+- **8:30:** Breakfast in BC 410
+- **12:30:** Lunch in BC 410
+- **17:00:** Final bell and team assembly in room BC 420
+- **17:10:** Project pitches by each team
+- **18:00:** Jury deliberation to select the top 3 games
+- **18:30:** Awards ceremony
+- **18:50 onwards:** Aperitif dinner and celebration in BC 410
 
 
 Free food and drinks will be provided throughout the event!  
 The event concludes with a final pitch session where 3 winners will be selected and awarded exciting prizes such as CHF 3,000 worth of gaming gear, game keys, and more!
-**In addition, video game designer Sandro Dall'Aglio will be present at various times to guide the teams.**
+**In addition, video game designer [Lucie Robert](https://www.linkedin.com/in/lrobertfreelance/) will be present at various times to guide the teams.**
 
 ## 4. Team Formation
 
