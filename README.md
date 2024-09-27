@@ -51,7 +51,7 @@ Teams will have 24 hours to design and prototype a game that addresses one or mo
 ## Saturday, September 28
 
 - **8:30:** Breakfast in BC 410
-- **12:30:** Lunch in BC 410
+- **12:00:** Lunch in BC 410
 - **17:00:** Final bell and team assembly in room BC 420
 - **17:10:** Project pitches by each team
 - **18:00:** Jury deliberation to select the top 3 games
