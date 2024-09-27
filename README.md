@@ -11,7 +11,7 @@ Come join us for an exciting 24-hour game jam exploring the theme of information
 [7. Guidelines](#7-event-rules)  
 [8. Evaluation Criteria](#8-evaluation-criteria)  
 [9. Jury](#9-jury)  
-[10. Acknowledgements](#10-acknowledgements)
+[10. Acknowledgements](#10-acknowledgements)  
 [11. Resources](#11-resources)
 
 ## 1. General Information
