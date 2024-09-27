@@ -196,6 +196,10 @@ Let’s build something amazing together! 👾
 
 ## 11. Resources
 
+### Game jam presentation (September 27)
+
+<a href="resource/Main_Presentation.pdf">Main_Presentation.pdf</a>
+
 ### Media articles, video & audio
 
 - **SRG SSR APIs** https://developer.srgssr.ch/api-catalog
