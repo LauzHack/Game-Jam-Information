@@ -71,7 +71,7 @@ All game prototypes should be submitted via DevPost (TBA) by the end of the Game
 2. A demo or video showcasing the game
 3. A GitHub repository (or equivalent) containing the codebase
 
-To be eligible for prizes, each team must present their game in a 5-minute pitch session to the jury on Saturday afternoon.
+To be eligible for prizes, each team must present their game in a 3-minute pitch session to the jury on Saturday afternoon.
 
 ## 6. Communication 
 
@@ -81,24 +81,11 @@ Real-time updates and event communication will be managed through our [Discord s
 
 Please refer to the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
 
-## 8. Evaluation Criteria
+## 8. Evaluation Criteria (TBA)
 
 Only work done during Game Jam will be considered (and should be made explicit) for the project evaluation.
 
-| Criteria                                                                                                                  | Allocated points |
-| ------------------------------------------------------------------------------------------------------------------------- | ---------------- |
-| **1. Technical Impressiveness**                                                                                           | **6**            |
-| &nbsp;&nbsp; 1.1. How impressive is the project from a technical perspective?                                             | 3                |
-| &nbsp;&nbsp; 1.2. How reasonable the technical and programming solutions are, given the limited timeframe of a hackathon? | 3                |
-| **2. Idea**                                                                                                               | **6**            |
-| &nbsp;&nbsp; 2.1. How innovative, original and unexpected the project is?                                                 | 3                |
-| &nbsp;&nbsp; 2.2. How usable the idea is for the real-world target population to which the project is aimed? hackathon?   | 3                |
-| **3. Prototype**                                                                                                          | **8**            |
-| &nbsp;&nbsp; 3.1. Does the prototype work as advertised by the team, and as expected for a one-day project?               | 4                |
-| &nbsp;&nbsp; 3.2. Does the prototype provide a good user experience and usability?                                        | 4                |
-| **4. Presentation**                                                                                                       | **4**            |
-| **5. Integrity Check**                                                                                                    |                  |
-| **TOTAL**                                                                                                                 | **24**           |
+Your pitch should be limited to **3 minutes**.
 
 ## 9. Jury
 <div style="width: 100%; text-align: center;">
