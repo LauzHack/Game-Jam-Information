@@ -158,7 +158,7 @@ Your pitch should be limited to **3 minutes**. Criteria to be announced shortly!
         </td>
         <td align="center" valign="top" width="16%">
           <a href="https://cresus.ch/fr/a-propos">
-            <img src="photo/cresus.png" width="100px" height="100px" alt="Olivier Michel"/>
+            <img src="photo/cresus.jpeg" width="100px" height="100px" alt="Olivier Michel"/>
             <br /><sub><b>Olivier Michel</b></sub>
           </a>
         </td>
