@@ -44,10 +44,12 @@ Teams will have 24 hours to design and prototype a game that addresses one or mo
 - **17:35:** Showcase of games created during ISART Digital's GameWeek  
 - **17:50:** Presentation of the game jam and the challenge by GameLab UNIL-EPFL  
 - **18:05:** Creation of teams (max. 5 people per team)  
-- **18:15:** Start of the game jam, moderated by LauzHack  
+- **18:15:** Start of the game jam, moderated by LauzHack
+- **22:30:** Close of working space. You are free to work elsewhere/remotely.
 
 ## Saturday, September 28
 
+- **8:30:** Breakfast (BC 410)
 - **17:00:** Closing gong for Game Jam and gathering of student groups in BC 420  
 - **17:10:** Student pitch session  
 - **18:00 - 18:30:** Jury deliberates to select the top three winners  
@@ -81,11 +83,11 @@ Real-time updates and event communication will be managed through our [Discord s
 
 Please refer to the [LauzHack rules](https://lauzhack.com/pdf/rules.pdf)
 
-## 8. Evaluation Criteria (TBA)
+## 8. Evaluation Criteria
 
 Only work done during Game Jam will be considered (and should be made explicit) for the project evaluation.
 
-Your pitch should be limited to **3 minutes**.
+Your pitch should be limited to **3 minutes**. Criteria to be announced shortly!
 
 ## 9. Jury
 <div style="width: 100%; text-align: center;">
