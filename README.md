@@ -49,7 +49,7 @@ Teams will have 24 hours to design and prototype a game that addresses one or mo
 - **17:50:** Presentation of the game jam and the challenge by GameLab UNIL-EPFL  
 - **18:05:** Creation of teams (max. 5 people per team)  
 - **18:15:** Start of the game jam, moderated by LauzHack
-- **19:30 & 21:30:** 🍕 in BC 410
+- **19:30 & 21:00:** 🍕 in BC 410
 - **22:30:** Closing of the working space. You are free to work elsewhere/remotely.
 
 ## Saturday, September 28
