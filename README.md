@@ -77,7 +77,9 @@ All game prototypes should be submitted via [DevPost](https://2024-game-jam.devp
 
 1. A brief description of the game and its relevance to the theme
 2. A demo or video showcasing the game
-3. A GitHub repository (or equivalent) containing the codebase
+3. Link to GitHub repository (or equivalent) containing the codebase
+
+Make sure your team is up-to-date on the [team formation document](https://docs.google.com/spreadsheets/d/1M_2P2imvVXc_p9r-7N2kCKn2dNCar32lAjfiD9ROvnA/edit?usp=sharing).
 
 To be eligible for prizes, each team must present their game in a 3-minute pitch session to the jury on Saturday afternoon.
 
